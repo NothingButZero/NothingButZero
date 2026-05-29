@@ -21,7 +21,7 @@ Currently diving into **Data Analytics**, exploring data, SQL, dashboards, and f
 
 When I'm not coding, you'll probably find me:
 
-* 🍫 Eating chocolate
+* 🍫 Eating
 * 🎮 Gaming
 * 💡 Starting new projects before finishing old ones
 * 🔍 Searching Stack Overflow like it's a survival skill
