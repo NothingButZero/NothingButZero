@@ -49,39 +49,69 @@ Because sometimes a black terminal window is all you need.
 
 ## 💻 Tech Stack
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-* HTML5
-* CSS3
-* JavaScript
-* Python
-* C
-* C#
-* C++
-* SQL
+### Languages
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- C
+- C#
+- C++
+- SQL
+
+</td>
+
+<td valign="top" width="33%">
 
 ### Frontend
+- React.js
+- Tailwind CSS
+- Bootstrap
+- Angular.js
 
-* React.js
-* Tailwind CSS
-* Bootstrap
-* Angular.js
+</td>
+
+<td valign="top" width="33%">
 
 ### Backend & Runtime
+- Node.js
+- .NET Framework
 
-* Node.js
-* .NET Framework
+</td>
+</tr>
+
+<tr>
+<td valign="top" width="33%">
 
 ### Databases
+- MySQL
+- MongoDB
 
-* MySQL
-* MongoDB
+</td>
+
+<td valign="top" width="33%">
 
 ### Other Tools
+- WordPress
+- Cloudflare
+- Unity
 
-* WordPress
-* Cloudflare
-* Unity
+</td>
+
+<td valign="top" width="33%">
+
+### Currently Learning
+- Data Analytics 📊
+- Advanced SQL
+- Data Visualization
+
+</td>
+</tr>
+</table>
 
 ---
 
