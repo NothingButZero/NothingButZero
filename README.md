@@ -6,7 +6,7 @@ const zero = {
     alias: "Zero",
     hobby: "Turning coffee into code",
     currentlyLearning: "Data Analytics 📊",
-    funFact: "Powered by chocolate 🍫",
+    funFact: "addicted to chocolate 🍫",
     status: "Probably debugging something right now..."
 };
 ```
