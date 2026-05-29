@@ -27,6 +27,23 @@ When I'm not coding, you'll probably find me:
 
 ---
 
+## 📚 Currently Learning
+
+Learning how to turn:
+
+```
+"Why is this number here?"
+```
+
+into:
+
+```
+"Oh wow, that's actually useful."
+```
+
+---
+
+
 ## 🛠️ What I Build
 
 ### 🌐 Frontend Web Development
@@ -103,40 +120,6 @@ Because sometimes a black terminal window is all you need.
 
 </tr>
 </table>
-
----
-
-## 📚 Currently Learning
-
-```txt
-██████████░░░░░░░░░░ 50%
-Data Analytics
-```
-
-Learning how to turn:
-
-```
-"Why is this number here?"
-```
-
-into:
-
-```
-"Oh wow, that's actually useful."
-```
-
----
-
-## 🍫 Fun Fact
-
-My codebase contains approximately:
-
-* 40% actual code
-* 30% comments
-* 20% trial and error
-* 10% chocolate
-
-The chocolate percentage increases during deadlines.
 
 ---
 
