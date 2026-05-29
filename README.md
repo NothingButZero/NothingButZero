@@ -23,7 +23,6 @@ When I'm not coding, you'll probably find me:
 
 * 🍫 Eating
 * 🎮 Gaming
-* 💡 Starting new projects before finishing old ones
 * 🔍 Searching Stack Overflow like it's a survival skill
 
 ---
