@@ -1,21 +1,145 @@
-# 💫 About Me:
-🔭 I’m currently working on MySQL projects<br>👯 I’m always looking to learn new stuff<br>🤝 always energetic<br>🌱 I’m currently learning data analytics<br>💬 Ask me about anything i will answer <br>⚡ Fun fact: i am addicted to chocolate
+# 👋 Hey, I'm Jay Gelani (aka Zero)
 
+```javascript
+const zero = {
+    name: "Jay Gelani",
+    alias: "Zero",
+    hobby: "Turning coffee into code",
+    currentlyLearning: "Data Analytics 📊",
+    funFact: "Powered by chocolate 🍫",
+    status: "Probably debugging something right now..."
+};
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ecafe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jay_gelani22s) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redeye22s37j@gmail.com) 
+## 🚀 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NothingButZero&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=NothingButZero&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NothingButZero&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Hey there! I'm **Jay Gelani**, but most people know me as **Zero**.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I'm a developer who enjoys building things that somehow start as a "small project" and end up becoming a 3 AM debugging session.
+
+Currently diving into **Data Analytics**, exploring data, SQL, dashboards, and figuring out why databases always decide to break exactly when everything was working five minutes ago.
+
+When I'm not coding, you'll probably find me:
+
+* 🍫 Eating chocolate
+* 🎮 Gaming
+* 💡 Starting new projects before finishing old ones
+* 🔍 Searching Stack Overflow like it's a survival skill
 
 ---
-[![](https://komarev.com/ghpvc/?username=NothingButZero&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ What I Build
+
+### 🌐 Frontend Web Development
+
+Creating modern, responsive websites that hopefully don't explode on Internet Explorer.
+
+### 🤖 Discord Bot Development
+
+Making bots that work harder than most humans.
+
+### 🎮 Unity Game Development
+
+Building games and spending 90% of the time fixing bugs caused by moving one object.
+
+### ⚡ CMD Apps & Tools
+
+Because sometimes a black terminal window is all you need.
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+* HTML5
+* CSS3
+* JavaScript
+* Python
+* C
+* C#
+* C++
+* SQL
+
+### Frontend
+
+* React.js
+* Tailwind CSS
+* Bootstrap
+* Angular.js
+
+### Backend & Runtime
+
+* Node.js
+* .NET Framework
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### Other Tools
+
+* WordPress
+* Cloudflare
+* Unity
+
+---
+
+## 📚 Currently Learning
+
+```txt
+██████████░░░░░░░░░░ 50%
+Data Analytics
+```
+
+Learning how to turn:
+
+```
+"Why is this number here?"
+```
+
+into:
+
+```
+"Oh wow, that's actually useful."
+```
+
+---
+
+## 🍫 Fun Fact
+
+My codebase contains approximately:
+
+* 40% actual code
+* 30% comments
+* 20% trial and error
+* 10% chocolate
+
+The chocolate percentage increases during deadlines.
+
+---
+
+## 🌍 Connect With Me
+
+💬 Discord: [Your Discord Here]
+
+📸 Instagram: [Your Instagram Here]
+
+📧 Email: [Your Email Here]
+
+---
+
+## 📈 Developer Motto
+
+> "If it works, don't touch it."
+>
+> *— Me, right before touching it.*
+
+---
+
+### Thanks for visiting!
+
+If you like my projects, feel free to ⭐ them.
+
+If you find bugs... no you didn't.
