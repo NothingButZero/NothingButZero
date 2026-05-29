@@ -4,7 +4,7 @@
 const zero = {
     name: "Jay Gelani",
     alias: "Zero",
-    hobby: "Turning coffee into code",
+    hobby: "Turning bugs into features",
     currentlyLearning: "Data Analytics 📊",
     funFact: "addicted to chocolate 🍫",
     status: "Probably debugging something right now..."
