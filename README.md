@@ -125,11 +125,11 @@ Because sometimes a black terminal window is all you need.
 
 ## 🌍 Connect With Me
 
-💬 Discord: [Your Discord Here]
+💬 Discord: .0_nothingbutzero_0.
 
-📸 Instagram: [Your Instagram Here]
+📸 Instagram: https://www.instagram.com/jay_gelani22s/
 
-📧 Email: [Your Email Here]
+📧 Email: jay2106w@gmail.com
 
 ---
 
