@@ -51,7 +51,8 @@ Because sometimes a black terminal window is all you need.
 
 <table>
 <tr>
-<td valign="top" width="33%">
+
+<td valign="top">
 
 ### Languages
 - HTML5
@@ -65,7 +66,7 @@ Because sometimes a black terminal window is all you need.
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 ### Frontend
 - React.js
@@ -75,17 +76,15 @@ Because sometimes a black terminal window is all you need.
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
-### Backend & Runtime
+### Backend
 - Node.js
 - .NET Framework
 
 </td>
-</tr>
 
-<tr>
-<td valign="top" width="33%">
+<td valign="top">
 
 ### Databases
 - MySQL
@@ -93,7 +92,7 @@ Because sometimes a black terminal window is all you need.
 
 </td>
 
-<td valign="top" width="33%">
+<td valign="top">
 
 ### Other Tools
 - WordPress
@@ -102,14 +101,6 @@ Because sometimes a black terminal window is all you need.
 
 </td>
 
-<td valign="top" width="33%">
-
-### Currently Learning
-- Data Analytics 📊
-- Advanced SQL
-- Data Visualization
-
-</td>
 </tr>
 </table>
 
