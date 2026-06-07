@@ -129,7 +129,7 @@ Because sometimes a black terminal window is all you need.
 
 📸 Instagram: https://www.instagram.com/jay_gelani22s/
 
-📧 Email: jay2106w@gmail.com
+📧 Email: redeye22s37j@gmail.com
 
 ---
 
